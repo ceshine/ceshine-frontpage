@@ -51,5 +51,10 @@ weight = 7
   name = "Linux"
   description = "60%"
 
+[[feature]]
+  icon = "google"
+  icon_pack = "fab"
+  name = "Ask Google"
+  description = "50%"
 
 +++
