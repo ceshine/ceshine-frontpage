@@ -22,6 +22,12 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "100%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -31,12 +37,19 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "90%"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "square-root-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Artificial Intelligence"
+  description = "80%"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "60%"
+
 
 +++
