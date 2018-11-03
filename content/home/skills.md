@@ -54,7 +54,7 @@ weight = 7
 [[feature]]
   icon = "google"
   icon_pack = "fab"
-  name = "Ask Google"
-  description = "50%"
+  name = "Asking Google"
+  description = "100%"
 
 +++
