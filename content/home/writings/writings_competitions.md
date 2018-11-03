@@ -15,10 +15,10 @@ weight = 60
 
 +++
 
-* [Learning Notes from Planet Competition](https://medium.com/the-artificial-impostor/learning-notes-from-planet-competition-b764e2e458f5)
-* [Kaggle Instacart Competition](https://medium.com/the-artificial-impostor/kaggle-instacart-competition-b7177c3324dd)
+* [[Notes] Avito Demand Prediction Challenge on Kaggle (2018)](https://medium.com/the-artificial-impostor/notes-avito-demand-prediction-challenge-on-kaggle-2018-c41543fe1fc6)
+* [Kaggle Toxic Comment Classification Challenge](https://medium.com/the-artificial-impostor/review-kaggle-toxic-comment-classification-challenge-part-1-934447339309)
 * Kaggle Corporación Favorita Grocery Sales Forecasting
   * [Part 1](https://towardsdatascience.com/review-kaggle-corporaci%C3%B3n-favorita-grocery-sales-forecasting-part-i-9330b7350713)
   * [Part 2](https://medium.com/the-artificial-impostor/review-kaggle-corporaci%C3%B3n-favorita-grocery-sales-forecasting-part-ii-680cca7f9bc5)
-* [Kaggle Toxic Comment Classification Challenge](https://medium.com/the-artificial-impostor/review-kaggle-toxic-comment-classification-challenge-part-1-934447339309)
-* [[Notes] Avito Demand Prediction Challenge on Kaggle (2018)](https://medium.com/the-artificial-impostor/notes-avito-demand-prediction-challenge-on-kaggle-2018-c41543fe1fc6)
+* [Kaggle Instacart Competition](https://medium.com/the-artificial-impostor/kaggle-instacart-competition-b7177c3324dd)
+* [Learning Notes from Planet Competition](https://medium.com/the-artificial-impostor/learning-notes-from-planet-competition-b764e2e458f5)
