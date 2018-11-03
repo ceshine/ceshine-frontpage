@@ -24,11 +24,10 @@ weight = 5
 [[education.courses]]
   course = "BSc in Computer Science and Information Engineering"
   institution = "National Taiwan University"
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ceshine Lee is an independent data scientist. In his past life, he had spent his time developing website backends, coding analytics applications, and doing predictive modeling for various startups. Unfortunately he did not find working 60 hours a week on things he does not believe in (some are even morally questionable) much rewarding.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Right now he just strives to do the right things, and hopes that eventually he will find a sustainable way to pay his bills.
