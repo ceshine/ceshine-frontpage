@@ -11,7 +11,7 @@ title = "Public Writings"
 subtitle = "Data Analysis"
 
 # Order that this section will appear in.
-weight = 59
+weight = 64
 
 +++
 

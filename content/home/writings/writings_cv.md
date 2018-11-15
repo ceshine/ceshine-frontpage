@@ -11,7 +11,7 @@ title = "Public Writings"
 subtitle = "Deep Learning - Computer Vision"
 
 # Order that this section will appear in.
-weight = 62
+weight = 63
 
 +++
 
