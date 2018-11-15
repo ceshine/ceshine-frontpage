@@ -1,7 +1,4 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
 date = 2018-11-03T00:00:00
@@ -15,6 +12,7 @@ weight = 63
 
 +++
 
+* [Building a Summarization System in Minutes](https://medium.com/the-artificial-impostor/build-a-summarization-system-in-minutes-5f10c141bfe6)
 * [Neural Language Model with PyTorch](https://medium.com/the-artificial-impostor/notes-neural-language-model-with-pytorch-a8369ba80a5c)
 * [Four Ways to Tokenize Chinese Documents](https://medium.com/the-artificial-impostor/nlp-four-ways-to-tokenize-chinese-documents-f349eb6ba3c3)
 * [[Preview] Developing Modern Chinese NLP Models](https://medium.com/the-artificial-impostor/preview-developing-modern-chinese-nlp-models-60d4774ebfa7)
