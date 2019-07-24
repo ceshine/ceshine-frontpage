@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Statistical Learning",
     "Data Analysis and Visualization",
-    "Natural Language Processing",    
+    "Natural Language Processing",
     "Time Series Modeling"
   ]
 
@@ -28,6 +28,4 @@ weight = 5
 
 # Biography
 
-Ceshine Lee is an independent data scientist. In his past life, he had spent his time developing website backends, coding analytics applications, and doing predictive modeling for various startups. Unfortunately he did not find working 60 hours a week on things he does not believe in (some are even morally questionable) much rewarding.
-
-Right now he just strives to do the right things, and hopes that eventually he will find a sustainable way to pay his bills.
+Ceshine Lee is an independent data scientist. In his past life, he had spent his time developing website backends, coding analytics applications, and doing predictive modeling for various startups.
